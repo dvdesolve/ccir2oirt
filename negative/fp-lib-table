@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Coil_THT_Air)(type KiCad)(uri /home/viktor/radiotechnics/kicad_footprints/Coil_THT_Air.pretty)(options "")(descr ""))
+  (lib (name Capacitor_K10-17)(type KiCad)(uri /home/viktor/radiotechnics/kicad_footprints/Capacitor_K10-17.pretty)(options "")(descr ""))
+  (lib (name Connector_Connfly)(type KiCad)(uri /home/viktor/radiotechnics/kicad_footprints/Connector_Connfly.pretty)(options "")(descr ""))
+)

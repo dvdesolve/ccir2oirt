@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name FM_Receivers)(type Legacy)(uri /home/viktor/radiotechnics/kicad_libraries/FM_Receivers.lib)(options "")(descr ""))
+)
