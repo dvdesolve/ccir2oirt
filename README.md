@@ -1,2 +1,2 @@
 # ccir2oirt
-Schematics and PCB for CCIR/OIRT downconverter
+This converter is intended for shifting radio frequency down so old radio receivers which works in OIRT range (mostly produced in Soviet Union) become able to receive modern CCIR range. It have 3 frequency range selectors: 88-96, 95-103 and 101-109 MHz. Input voltage is quite wide and spans from 7V to 25V (for both positive and negative versions). It's recommended to place the whole device in solid aluminum box to prevent unintended RF interference.
